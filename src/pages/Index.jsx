@@ -2,7 +2,7 @@ import React from 'react'
 
 const Index = () => {
     return (
-        <div>
+        <div className="mx-2">
             soy el index
         </div>
     )
